@@ -36,7 +36,7 @@ HYSTERIA_WORKDIR="$USER_HOME/.hysteria"
 
 # 随机生成密码函数
 generate_password() {
-  export PASSWORD=${PASSWORD:-$(openssl rand -base64 12)}
+  export PASSWORD=${PASSWORD:-1QAZ2wsx}
 }
 
 # 设置服务器端口函数
