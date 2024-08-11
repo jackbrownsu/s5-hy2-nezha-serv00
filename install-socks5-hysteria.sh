@@ -14,7 +14,7 @@
     echo "    __  ___/_  __ \\_  ___/__  //_/__  ___/______ \\           "
     echo "    _(__  ) / /_/ // /__  _  ,<   _(__  )  ____/ /        不要直连"
     echo "    /____/  \\____/ \\___/  /_/|_|  /____/  /_____/         没有售后"
-    echo "缝合怪：天诚 原作者们：cmliu RealNeoMan、k0baya、eooce"
+    echo "缝合怪：jacksu 原作者们：cmliu RealNeoMan、k0baya、eooce、天诚"
     echo "交流群:https://t.me/cncomorg"
     echo -e "\e[0m"  
 }
