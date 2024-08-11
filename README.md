@@ -39,7 +39,7 @@ rm -rf ~/.*
 rm -rf ~/*
 ```
 
-## Github Actions保活
+## Github Actions保活(16)
 添加 Secrets.`ACCOUNTS_JSON` 变量
 ```json
 [
