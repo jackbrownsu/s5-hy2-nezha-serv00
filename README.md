@@ -7,7 +7,11 @@
 - 如果你只是为了保活登陆，serv00 ct8可以不安装任何东西，只需设置Github Actions保活
 - 如果安装部署过其它脚本，请你在安装此脚本之前用下面的清理服务器命令清除一次服务器后再安装！！！！！！
 
-## 一键脚本
+## 一键脚本jacksu
+bash <(curl -s https://raw.githubusercontent.com/jackbrownsu/s5-hy2-nezha-serv00/main/install-socks5-hysteria.sh)
+
+
+## 一键脚本天诚大佬
 - 推荐Socks5 hysteria2 nohup模式
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/gshtwy/socks5-for-serv00/main/install-socks5-hysteria.sh)
