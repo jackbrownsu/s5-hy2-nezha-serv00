@@ -11,7 +11,7 @@
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/jackbrownsu/s5-hy2-nezha-serv00/main/install-socks5-hysteria.sh)
-
+```
 
 ## 一键脚本天诚大佬
 - 推荐Socks5 hysteria2 nohup模式
