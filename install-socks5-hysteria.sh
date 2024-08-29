@@ -261,7 +261,7 @@ install_socks5(){
 
 # 下载 Nezha Agent
 download_agent() {
-    DOWNLOAD_LINK="https://github.com/nezhahq/agent/releases/latest/download/nezha-agent_freebsd_amd64.zip"
+    DOWNLOAD_LINK="https://github.com/nezhahq/agent/releases/v0.17.5/download/nezha-agent_freebsd_amd64.zip"
     if ! wget -qO "$ZIP_FILE" "$DOWNLOAD_LINK"; then
         echo 'error: Download failed! Please check your network or try again.'
         return 1
